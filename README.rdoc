@@ -1,3 +1,5 @@
 == README
 
 Depot application
+
+Agile Web Development with Rails 4
