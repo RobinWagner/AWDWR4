@@ -2,4 +2,4 @@
 
 Depot application
 
-Agile Web Development with Rails 4
+Agile Web Development with Rails 4.
